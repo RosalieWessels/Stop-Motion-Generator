@@ -1,0 +1,26 @@
+body {
+    background: rgb(173,215,246);
+    background: radial-gradient(circle, rgba(173,215,246,1) 0%, rgba(38,103,255,1) 100%);   
+}
+
+h1 {
+    font-family: 'Sigmar', cursive;
+    color: black;
+}
+
+p {
+    font-family: 'Sigmar', cursive;
+    color: black;
+}
+
+div {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 10px black;
+    width: 80%;
+    margin-top: 20%;
+}
+
+img {
+    border-radius: 10px;
+}
